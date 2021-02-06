@@ -1,0 +1,7 @@
+li{
+    text-decoration: none;
+    display:flex;
+    justify-content: space-around;
+    width: 300px;
+    margin-left: 300px; 
+}
